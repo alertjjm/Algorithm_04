@@ -9,10 +9,11 @@
 ![layer3_correct](https://user-images.githubusercontent.com/46064193/82640807-2f188000-9c46-11ea-8dcc-ac2c8004a43e.PNG)
 ## 5. Images and corresponding probability that predicted Wrong
 ![wrongpred_layer3](https://user-images.githubusercontent.com/46064193/82640826-393a7e80-9c46-11ea-8d23-dbd9e48bbc4c.PNG)
+
 --- 
 
-## 1.Model 1: 3Layers with 1 Convolution Layer
-
+## 1.Model 1: 5Layers with 2 Convolution Layer
+![layer5_model](https://user-images.githubusercontent.com/46064193/82641003-97676180-9c46-11ea-977f-eb7645b80423.PNG)
 ## 2.Training with Training loss
 
 ## 3. Test Accuracy
@@ -23,8 +24,8 @@
 
 ---
 
-## 1.Model 1: 3Layers with 1 Convolution Layer
-
+## 1.Model 1: 7Layers with 4 Convolution Layer
+![layer7_model](https://user-images.githubusercontent.com/46064193/82641078-b6fe8a00-9c46-11ea-940b-852f03d4db21.PNG)
 ## 2.Training with Training loss
 
 ## 3. Test Accuracy
