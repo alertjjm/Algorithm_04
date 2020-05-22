@@ -15,13 +15,13 @@
 ## 1.Model 1: 5Layers with 2 Convolution Layer
 ![layer5_model](https://user-images.githubusercontent.com/46064193/82641003-97676180-9c46-11ea-977f-eb7645b80423.PNG)
 ## 2.Training with Training loss
-
+![layer5_training](https://user-images.githubusercontent.com/46064193/82642597-24abb580-9c49-11ea-86e4-df8b9052d4ba.PNG)
 ## 3. Test Accuracy
-
+![layter5_test](https://user-images.githubusercontent.com/46064193/82642612-29706980-9c49-11ea-9fef-7ef4a22e7cf8.PNG)
 ## 4. Images and corresponding probability that predicted Right
-
+![layter5_correct](https://user-images.githubusercontent.com/46064193/82642672-3ee59380-9c49-11ea-9ef1-ca369173be11.PNG)
 ## 5. Images and corresponding probability that predicted Wrong
-
+![layer5_wrong](https://user-images.githubusercontent.com/46064193/82642620-2bd2c380-9c49-11ea-97ed-6eeaba338b00.PNG)
 ---
 
 ## 1.Model 1: 7Layers with 4 Convolution Layer
