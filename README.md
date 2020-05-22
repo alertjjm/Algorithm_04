@@ -12,7 +12,7 @@
 
 --- 
 
-## 1.Model 1: 5Layers with 2 Convolution Layer
+## 1.Model 2: 5Layers with 2 Convolution Layer
 ![layer5_model](https://user-images.githubusercontent.com/46064193/82641003-97676180-9c46-11ea-977f-eb7645b80423.PNG)
 ## 2.Training with Training loss
 ![layer5_training](https://user-images.githubusercontent.com/46064193/82642597-24abb580-9c49-11ea-86e4-df8b9052d4ba.PNG)
@@ -25,7 +25,7 @@
 
 ---
 
-## 1.Model 1: 7Layers with 4 Convolution Layer
+## 1.Model 3: 7Layers with 4 Convolution Layer
 ![layer7_model](https://user-images.githubusercontent.com/46064193/82641078-b6fe8a00-9c46-11ea-940b-852f03d4db21.PNG)
 ## 2.Training with Training loss
 ![layer7_training](https://user-images.githubusercontent.com/46064193/82644203-dfd54e00-9c4b-11ea-984f-ba84ae517b4c.PNG)
